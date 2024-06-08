@@ -1,10 +1,11 @@
-# Tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
+## Run the app
 
-## Development server
+Run `ng serve` for a client side. Navigate to `http://localhost:4200/`.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+navigate to server inside source and run:
+
+`npm start` for a server side.
 
 ## Code scaffolding
 
